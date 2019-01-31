@@ -1,8 +1,8 @@
 body {
   font-family: helvetica;
-  color: #ff0000;
 }
 
-h1 {
-  font-family: helvetica;
+.intro {
+  display: flex;
+  align-content:flex-start; 
 }
