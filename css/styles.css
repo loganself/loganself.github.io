@@ -1,4 +1,4 @@
-div .intro p {
+.intro {
   display: flex;
   justify-content: center;
   float: left;
