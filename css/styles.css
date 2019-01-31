@@ -3,12 +3,8 @@ div .intro p {
   justify-content: center;
   float: left;
   font-family: helvetica;
-
-
 }
 
-body .hover {
-  background-color: #000;
-  color: #fff;
+h1 {
   font-family: helvetica;
 }
