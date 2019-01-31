@@ -1,9 +1,9 @@
-body .intro {
+div .intro {
   display: flex;
   justify-content: center;
   float: left;
   font-family: helvetica;
-  
+
 
 }
 
