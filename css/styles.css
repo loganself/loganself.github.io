@@ -1,0 +1,17 @@
+body .card {
+  display: flex;
+  justify-content: center;
+  float: left;
+  background-color: #fff;
+  font-family: helvetica;
+  border: 1px solid;
+  width: 600px;
+  padding: 30px;
+  height: 300px;
+}
+
+body .hover {
+  background-color: #000;
+  color: #fff;
+  font-family: helvetica;
+}
