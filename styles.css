@@ -15,11 +15,23 @@ h1.card-title {
   border-radius: 25px;
 }
 
+#app {
+  background-color: #FF7F50;
+}
+
 .card-header{
   float: left;
   font-size: 12px;
   padding-top: 0px;
   background-color: #007BA7;
+  border-bottom: 0px;
+}
+
+#app .card-header{
+  float: left;
+  font-size: 12px;
+  padding-top: 0px;
+  background-color: #FF7F50;
   border-bottom: 0px;
 }
 
