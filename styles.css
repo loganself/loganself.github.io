@@ -1,0 +1,92 @@
+body {
+  font-family: helvetica;
+}
+
+h1.card-title {
+  color: #fff;
+  font-family: helvetica;
+  padding-left: 32%;
+  padding-top: 25px;
+  font-size: 64px;
+}
+
+.card-body {
+  background-color: #007BA7;
+  border-radius: 25px;
+}
+
+.card-header{
+  float: left;
+  font-size: 12px;
+  padding-top: 0px;
+  background-color: #007BA7;
+  border-bottom: 0px;
+}
+
+.card-header-right img {
+  width: 8%;
+  float: right;
+  margin-top: -4.5px;
+}
+
+h6  {
+  font-family: helvetica;
+  color: #fff;
+  padding-left: 28%;
+}
+
+
+h3  {
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+
+.card-link-left img {
+  color: #000;
+  float: left;
+}
+
+.card-link-right img {
+  color: #000;
+  float: right;
+}
+
+p {
+  border-radius: 10px;
+  padding: 5px;
+  background-color: #D3D3D3;
+
+}
+
+a img {
+  width: 10%;
+}
+
+.card-title {
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+img.snow {
+  width: 35%;
+}
+table {
+  align-items: center;
+}
+td {
+  text-align: center;
+}
+
+th, td {
+  padding-bottom: 5px;
+  padding-right: 55px;
+  text-align: left;
+}
+
+td.checkin {
+  color: #00ff00;
+}
+
+td.tsa {
+  color: #FFFF00;
+}
