@@ -5,9 +5,9 @@ body {
 h1.card-title {
   color: #fff;
   font-family: helvetica;
-  padding-left: 32%;
+  padding-left: 30%;
   padding-top: 25px;
-  font-size: 64px;
+  font-size: 55px;
 }
 
 .card-text:hover {
