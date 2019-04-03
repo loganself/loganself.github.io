@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Takeoff App Prototype</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap CSS file comes first. -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <!-- Your CSS file comes second. -->
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="flight.js" defer></script>
+  </head>
+  <body>
+
+    <!-- Everything goes in div.container or div.container-fluid -->
+    <div class="container">
+
+      <!-- All your columns go inside .row -->
+      <div class="first">
+      <div class="card border-light mb-3" style="max-width: 22rem;">
+    <div class="card-body">
+      <div class="card-header">AT&T</div>
+      <div class="card-header-right"> <img src="battery.png"></div>
+    <div class="first">
+      <h1 class="card-title">9:30</h1>
+      <h6>Sunday, February 25</h6>
+    </br>
+  </br>
+      <p data-flight="abia" class="card-text" id="alert">Your flight <strong>UA #2345</strong> departs from <strong>Austin-Bergstrom International Airport</strong> today at <strong>12:30 p.m.</strong> Make sure you are ready and now what to expect!</p>
+
+      <p data-flight="mke" class="card-text">Your flight <strong>WN #685</strong> departs from <strong>Milwaukee Mitchell International Airport</strong> today at <strong>7:05 a.m.</strong> Make sure you are ready and now what to expect!</p>
+
+      <p data-flight="mdw" class="card-text">Your flight <strong>UA #2345</strong> departs from <strong>Chicago Midway International Airport</strong> today at <strong>12:30 p.m.</strong> Make sure you are ready and now what to expect!</p>
+
+    </br>
+    </br>
+
+  </div>
+
+      <a href="#" class="card-link-left"><img src="flashlight.png" /></a>
+      <a href="#" class="card-link-right"><img src="camera.png" /> </a>
+    </div>
+
+  </div>
+</div>
+  <!-- Inside App Page -->
+  <div class="second">
+  <div class="card border-light mb-3" style="max-width: 22rem;">
+<div class="card-body" id="app">
+
+  <div class="card-header">12:31</div>
+  <div class="card-header-right"> <img src="battery.png"></div>
+
+  <h3 class="card-title">Your Flight Info:</h3>
+  <table>
+      <tr>
+        <td><strong>Departure</strong></td>
+        <td><strong>Date</strong></td>
+      </tr>
+      <tr>
+        <td id="departTime"></td>
+        <td id="date"></td>
+      </tr>
+      <tr>
+        <td><strong>Gate</strong></td>
+        <td><strong>Check-In</strong></td>
+      </tr>
+      <tr>
+        <td id="gate"></td>
+        <td class="checkin" id="checkin"></td>
+      </tr>
+      <tr>
+        <td><strong>TSA</strong></td>
+        <td><strong>Time to Airport</strong></td>
+      </tr>
+      <tr>
+        <td class="tsa" id="tsa"></td>
+        <td id="airport"></td>
+      </tr>
+  </table>
+
+  <h3>Arrival Desination Info:</h3>
+  <table>
+      <tr>
+        <td><strong>Arrival</strong></td>
+        <td><strong>Gate</strong></td>
+      </tr>
+      <tr>
+        <td>3:00 p.m.</td>
+        <td>21</td>
+      </tr>
+      <tr>
+        <td><strong>Baggage</strong></td>
+        <td ><strong>Weather</strong></td>
+      </tr>
+      <tr>
+        <td id="baggage"></td>
+        <td id="weather"></td>
+      </tr>
+  </table>
+    </br>
+    </br>
+    </br>
+    <button type="button" id="home" class="btn btn-secondary btn-lg btn-block">Home</button>
+    <button type="button" class="btn btn-secondary btn-lg btn-block">Edit Flight</button>
+  </div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+    <!-- These are just javaScript files that Bootstrap needs. Include them on every page, right before the </body> tag. -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+      </body>
+</html>
