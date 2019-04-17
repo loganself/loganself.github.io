@@ -13,7 +13,7 @@
 ****/
 
 var trace1 = {
-  x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], // x is an array of values for the x-axis.
+  x: [1, 2, 3, 4, 5, 6 , 7, 8, 9, 10, 11, 12, 13, 14], // x is an array of values for the x-axis.
   y: [34, 10, 8, 7, 19, 1, 1, 1, 8, 7, 0, 0, 1, 1], // y is an array of values corresponding to the provided x values.
   type: 'bar',
   name: 'Austin',
