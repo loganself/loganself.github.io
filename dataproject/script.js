@@ -57,7 +57,7 @@ var options = {
  staticPlot: true, // disable zoom, save and other toolbar options
 }
 
-Plotly.newPlot('viz', data, layout, options);
+Plotly.newPlot('viz', data, layout, options {responsive: true});
 
 info = [{year: "2013", january: 652072, february: 604440, march: 766593, april: 737275},
 {year: "2014", january: 652072, januarysa: 456789, february: 604440, march: 766593, april: 737275},
