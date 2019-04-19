@@ -63,7 +63,7 @@ Plotly.newPlot('viz', data, layout, options , {responsive: true});
 
 
 var trace1 = {
-  x: [1, 2, 3, 4, 5, 6 ], // x is an array of values for the x-axis.
+  x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48], // x is an array of values for the x-axis.
   y: [34, 10, 8, 7, 19, 1], // y is an array of values corresponding to the provided x values.
   type: 'line',
   name: 'Austin',
@@ -74,8 +74,8 @@ var trace1 = {
 };
 
 var trace2 = {
-  x: [1, 2, 3, 4, 5, 6], // x is an array of values for the x-axis.
-  y: [20, 12, 12,20, 11, 1], // y is an array of values corresponding to the provided x values.
+  x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48 ], // x is an array of values for the x-axis.
+  y: [615622, 562266, 740259, 721313, 741014, 776243, 809653, 709237, 636217, 738357, 721962, 726104, 640614, 595286, 711596, 699203, 754257, 800107, 802345, 719761, 683488, 739620, 0, 730551, 652072, 604440, 766593, 737275, 777005, 834917, 848952, 756360, 687536, 803667, 810495, 784230, 702546, 667650, 848233, 836492, 840951,887169, 933290, 881896, 781593, 899696, 888698, 875437], // y is an array of values corresponding to the provided x values.
   type: 'line',
   name: 'San Antonio',
   marker: {
