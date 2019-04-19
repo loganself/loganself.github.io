@@ -197,7 +197,7 @@ var drawPlot = function(category) {
             lat: 30.2672,
             lon: -97.7431
           },
-          zoom: 1, // Sets the zoom level.
+          zoom: 2, // Sets the zoom level.
           style: 'light' // These are mapbox styles. Options include light, dark, satellite
         },
         margin: {
