@@ -42,7 +42,7 @@ var layout = {
   showlegend: true,
   barmode: 'bar',
   yaxis: {
-    title: 'Number or Airlines'
+    title: 'Number or Destinations'
 
   },
   xaxis: {
@@ -88,11 +88,11 @@ var data = [trace1, trace2,]
 
 // The layout object provides options for how our visualization will appear:
 var layout = {
-  title:'Passenger Growth of both Airports',
+  title:'Passenger Growth of Both Airports',
   showlegend: true,
   barmode: 'line',
   yaxis: {
-    title: 'Number or Airlines'
+    title: 'Number of Passengers'
 
   },
   xaxis: {
