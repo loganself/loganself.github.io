@@ -153,8 +153,8 @@ $( document ).ready(function() {
     // Now attach an event listener to the dropdown so that when the user selects a crime type, the map updates. You should call the drawPlot() function to update the map.
 
   $('#airportLocation').on('change', function(event){
-    $('#viz').remove();
-      $('#viz_holder').append('<div id="viz"></div>');
+    $('#viz3').remove();
+      $('#viz_holder').append('<div id="viz3"></div>');
       drawPlot(event.target.value);
   })
 
