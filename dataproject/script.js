@@ -60,6 +60,8 @@ var options = {
 Plotly.newPlot('viz', data, layout, options , {responsive: true});
 
 
+
+
 var trace1 = {
   x: [1, 2, 3, 4, 5, 6 ], // x is an array of values for the x-axis.
   y: [34, 10, 8, 7, 19, 1], // y is an array of values corresponding to the provided x values.
@@ -105,4 +107,4 @@ var options = {
  staticPlot: true, // disable zoom, save and other toolbar options
 }
 
-Plotly.newPlot('viz', data, layout, options , {responsive: true});
+Plotly.newPlot('viz2', data, layout, options , {responsive: true});
