@@ -54,7 +54,7 @@ var layout = {
 }
 
 var options = {
- staticPlot: true, // disable zoom, save and other toolbar options
+ staticPlot: false, // disable zoom, save and other toolbar options
 }
 
 Plotly.newPlot('viz', data, layout, options , {responsive: true});
@@ -104,7 +104,7 @@ var layout = {
 }
 
 var options = {
- staticPlot: true, // disable zoom, save and other toolbar options
+ staticPlot: false, // disable zoom, save and other toolbar options
 }
 
 Plotly.newPlot('viz2', data, layout, options , {responsive: true});
