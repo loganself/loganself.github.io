@@ -221,7 +221,7 @@ var drawPlot = function(category) {
         mapboxAccessToken: 'pk.eyJ1IjoiZGNhcnRlciIsImEiOiJjamZiZXczdnozNXc2MnFwNDNvazdic3d5In0._SFNB_RTylq_bYxJbqVdiQ' // Get your own Mapbox access token by registering at mapbox.com
       });
 
-  Plotly.plot('viz', data, layout, options);
+  Plotly.plot('viz3', data, layout, options);
 
 
 
