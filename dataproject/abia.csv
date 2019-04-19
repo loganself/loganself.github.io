@@ -16,7 +16,7 @@ CVG,Austin ,'#ff0000',39.048889,-84.667778,"Cincinnati (CVG): Delta Airlines, Fr
 CLE,Austin ,'#ff0000',41.411667,-81.849722,Cleveland (CLE): Frontier Airlines
 DAL,Austin ,'#ff0000',32.847222,-96.851667,Dallas-Love (DAL): Southwest Airlines
 DFW,Austin ,'#ff0000',32.896944,-97.038056,Dallas-Forth Worth (DFW): American Airlines
-DEN,Austin ,'#ff0000',39.861667,-104.673056,"Denver (DEN): Frontier Airlines, Spirit Airlines, Southwest Airlines, United Airlines "
+DEN,Austin ,#ff0000,39.861667,-104.673056,"Denver (DEN): Frontier Airlines, Spirit Airlines, Southwest Airlines, United Airlines "
 DTW,Austin ,'#ff0000',42.2125,-83.353333,"Detroit (DTW): Delta Airlines, Frontier Airlines "
 ELP,Austin ,'#ff0000',31.807222,-106.3775,El Paso (ELP): Southwest Airlines
 FLL,Austin ,'#ff0000',26.0725,-80.152778,"Fort Lauderdale (FLL): JetBLue Airways, Spirit Airlines, Southwest Airlines "
