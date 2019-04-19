@@ -96,7 +96,7 @@ var layout = {
 
   },
   xaxis: {
-    title: 'Airlines',
+    title: 'Month/Year',
     tickvals: ["1","2","3","4", "5", "6", "7", "8", "9","10","11","12","13","14", "15", "16", "17", "18", "19", "20","21","22","23","24", "25", "26", "27", "28", "29", "30","31","32","33","34", "35", "36", "37", "38", "39", "40","41","42","43","44", "45", "46", "47", "48"], // These should correspond to the x values in your data series objects
     ticktext: ["Jan. 15","Feb. 15","Mar. 15","Apr. 15", "May 15", "Jun. 15", "Jul. 15", "Aug. 15", "Sept. 15", "Oct. 15", "Nov. 15", "Dec. 15", "Jan. 16","Feb. 16","Mar. 16","Apr. 16", "May 16", "Jun. 16", "Jul. 16", "Aug. 16", "Sept. 16", "Oct. 16", "Nov. 16", "Dec. 16", "Jan. 17","Feb. 17","Mar. 17","Apr. 17", "May 17", "Jun. 17", "Jul. 17", "Aug. 17", "Sept. 17", "Oct. 17", "Nov. 17", "Dec. 17", "Jan. 18","Feb. 18","Mar. 18","Apr. 18", "May 18", "Jun. 18", "Jul. 18", "Aug. 18", "Sept. 18", "Oct. 18", "Nov. 18", "Dec. 18", ]
   }
