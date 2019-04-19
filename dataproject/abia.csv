@@ -1,73 +1,73 @@
 ﻿,airportLocation,Color,Latitude,Longitude,airlineOptions
-ABQ,Austin ,#ff0000,35.039333,-106.610778,"Albuquerque (ABQ): Allegiant Air, Southwest Airlines "
-AMA,Austin ,#ff0000,35.219444,-101.705833,Amarillo (AMA): Via Air
-ATL,Austin ,#ff0000,33.636667,-84.428056,"Atlanta (ATL): Delta Airlines, Frontier Airlines, Spirit Airlines, Southwest Airlines"
-BWI,Austin ,#ff0000,39.175278,-76.668333,"Baltimore (BWI): Spirit Airlines, Southwest Airlines "
-BTR,Austin ,#ff0000,30.532778,-91.15,Baton Rouge (BTR): Via Air
-BHM,Austin ,#ff0000#ff0000,33.563889,-86.752222,Birmingham (BHM): Via Air
-BOS,Austin ,#ff0000,42.363056,-71.006389,"Boston (BOS): Delta Airlines, JetBLue Airways, Southwest Airliens "
-BKG,Austin ,#ff0000,36.531944,-93.200556,Branson (BKG): Via Air
-YYC,Austin ,#ff0000,51.1225,-114.013333,Calgary (YYC): West Jet
-CUN,Austin ,#ff0000,21.036667,-86.876944,"Cancun (CUN): Southwest Airlines, Sun Country, United Airlines"
-CLT,Austin ,#ff0000,35.213889,-80.943056,Charlotte (CLT): American Airlines
-MDW,Austin ,#ff0000,41.786111,-87.7525,Chicago-Midway (MDW): Southwest Airlines
-ORD,Austin ,#ff0000,41.978611,-87.904722,"Chicago-O'Hare (ORD): American Airlines, Frontier Airlines, Spirit Airlines, United Airlines "
-CVG,Austin ,#ff0000,39.048889,-84.667778,"Cincinnati (CVG): Delta Airlines, Frontier Airlines "
-CLE,Austin ,#ff0000,41.411667,-81.849722,Cleveland (CLE): Frontier Airlines
-DAL,Austin ,#ff0000,32.847222,-96.851667,Dallas-Love (DAL): Southwest Airlines
-DFW,Austin ,#ff0000,32.896944,-97.038056,Dallas-Forth Worth (DFW): American Airlines
-DEN,Austin ,#ff0000,39.861667,-104.673056,"Denver (DEN): Frontier Airlines, Spirit Airlines, Southwest Airlines, United Airlines "
-DTW,Austin ,#ff0000,42.2125,-83.353333,"Detroit (DTW): Delta Airlines, Frontier Airlines "
-ELP,Austin ,#ff0000,31.807222,-106.3775,El Paso (ELP): Southwest Airlines
-FLL,Austin ,#ff0000,26.0725,-80.152778,"Fort Lauderdale (FLL): JetBLue Airways, Spirit Airlines, Southwest Airlines "
-VPS,Austin ,#ff0000,30.483333, -86.525278,Fort Walton Beach (VPG): Allegiant Air
-FRA,Austin ,#ff0000,50.033333,8.570556,Frankfurt (FRA): Lufthansa
-HRL,Austin ,#ff0000,26.227222,-97.655,Harlingen (HRL): Southwest Airlines
-HOU,Austin ,#ff0000,29.645556,-95.278889,Houston-Hobby (HOU): Southwest Airlines
-IAH,Austin ,#ff0000,29.984444,-95.341389,Houston-Bush (IAH): United Airlines
-IND,Austin ,#ff0000,39.717222,-86.294444,"Indianapolis (IND): Allegiant Air, Southwest Airlines "
-MCI,Austin ,#ff0000,39.2975,-94.713889,Kansas City (MCI): Southwest Airlines
-LAS,Austin ,#ff0000,36.08,-115.152222,"Las Vegas (LAS): Allegiant Air, Frontier Airlines, Spirit Airlines, Southwest Airlines "
-LIT,Austin ,#ff0000,34.730778,-92.219472,Little Rock (LIT): Via Air
-LGW,Austin ,#ff0000,51.148056,-0.190278,London-Gatwick (LGW): Norweigian
-LHR,Austin ,#ff0000,51.4775,-0.461389,London-Heathrow: British Airways
-LGB,Austin ,#ff0000,33.817778,-118.151667,Long Beach (LGB): JetBlue Airways
-LAX,Austin ,#ff0000,33.9425,-118.408056,"Los Angeles (LAX): American Airlines, Delta Airlines, Spirit Airlines, Southwest Airlines, United Airlines "
-ONT,Austin ,#ff0000,34.056111,-117.601111,Ontario (ONT): Frontier Airlines
-LBB,Austin ,#ff0000,33.663611,-101.820556,Lubbock (LBB): Southwest Airlines
-MEM,Austin ,#ff0000,35.0425, -89.976667,"Memphis (MEM): Allegiant Air, Via Air "
-MEX,Austin ,#ff0000,19.436111, -99.071944,Mexico City (MEX): Aeromexico Airlines
-MIA,Austin ,#ff0000,25.793333,-80.290556,Miami (MIA): American Airlines
-MSP,Austin ,#ff0000,44.881944,-93.221667,"Minneapolis/St. Paul (MSP): Delta Airlines, Frontier Airlines, Sun Country "
-BNA,Austin ,#ff0000,36.126667,-86.681944,Nashville (BNA): Southwest Airlines
-MSY,Austin ,#ff0000,29.993333,-90.258056,"New Orleans (MSY): Spirit Airlines, Southwest Airlines "
-EWR,Austin ,#ff0000,40.6925,-74.168611,"Newark (EWR): Southwest Airlines, United Airlines "
-JFK,Austin ,#ff0000,40.639722,-73.778889,"John F. Kennedy (JFK): American Airlines, Delta Airlines, JetBlue Airways "
-OAK,Austin ,#ff0000,37.721389,-122.220833,Oakland (OAK): Southwest Airlines
-MCO,Austin ,#ff0000,28.429444,-81.308889,"Orlando (MCO): Frontier Airlines, JetBlue Airways, Spirit Airlines, Southwest Airlines"
-SFB,Austin ,#ff0000,28.777778,-81.2375,Orlando-Sanford (SFO): Allegiant Air
-ECP,Austin ,#ff0000,30.358333,-85.795556,Panama City (ECP): Southwest Airlines
-PNS,Austin ,#ff0000,30.473333,-87.186667,Pensacola (PNS): Southwest Airlines
-PHL,Austin ,#ff0000,39.871944,-75.241111,"Philadelphia (PHL): American Airlines, Frontier Airlines "
-PHX,Austin ,#ff0000,33.434167,-112.011667,"Phoenix (PHX): American Airlines, Southwest Airlines "
-PIT,Austin ,#ff0000,40.496,-80.246,Pittsburg (PIT): Allegiant Air
-PDX,Austin ,#ff0000,45.588611,-122.5975,Portland (PDX): Alaska Airlines
-RDU,Austin ,#ff0000,35.877778,-78.7875,"Raleigh/Durham (RDU): Delta Airlines, Southwest Airlines "
-SMF,Austin ,#ff0000,38.695556,-121.590833,Sacramento (SMF): Southwest Airlines
-SLC,Austin ,#ff0000,40.788333,-111.977778,"Salt Lake City (SLC): Delta Airlines, Frontier Airlines "
-SAN,Austin ,#ff0000,32.733611,-117.189722,"San Diego (SAN): Alaska Airlines, Frontier Airline, Southwest Airlines"
-SFO,Austin ,#ff0000,37.618889,-122.375,"San Francisco (SFO): Alaska Airlines, Frontier Airlines, Southwest Airlines, United Airlines "
-SJC,Austin ,#ff0000,37.362778,-121.929167,"San Jose (SJC): Alaska Airlines, Southwest Airlines "
-SJD,Austin ,#ff0000,23.151667, -109.720833,Los Cabos (SJD): Southwest Airlines
-SNA,Austin ,#ff0000,33.675556,-117.868333,Santa Anna (SNA): Frontier Airlines
-SEA,Austin ,#ff0000,47.448889,-122.309444,"Seattle (SEA): Alaska Airlines, Delta Airlines, Frontier Airlines "
-STL,Austin ,#ff0000,38.747222,-90.361389,St. Louis (STL): Southwest Airlines
-TPA,Austin ,#ff0000,27.975556,-82.533333,Tampa (TPA): Frontier Airlines
-YYZ,Austin ,#ff0000,43.676667, -79.630556,Toronto (YYZ): Air Canada
-TUS,Austin ,#ff0000,32.116111,-110.941111,Tuscon (TUS): Via Air
-TUL,Austin ,#ff0000,36.198333,-95.888056,Tulsa (TUL): Via Air
-DCA,Austin ,#ff0000,38.852222,-77.037778,Washington-Reagan (DCA): Southwest Airlines
-IAD,Austin ,#ff0000,38.944444,-77.455833,"Washington-Dulles (IAD): Frontier Airlines, United Airlines "
+ABQ,Austin ,ff0000,35.039333,-106.610778,"Albuquerque (ABQ): Allegiant Air, Southwest Airlines "
+AMA,Austin ,ff0000,35.219444,-101.705833,Amarillo (AMA): Via Air
+ATL,Austin ,ff0000,33.636667,-84.428056,"Atlanta (ATL): Delta Airlines, Frontier Airlines, Spirit Airlines, Southwest Airlines"
+BWI,Austin ,ff0000,39.175278,-76.668333,"Baltimore (BWI): Spirit Airlines, Southwest Airlines "
+BTR,Austin ,ff0000,30.532778,-91.15,Baton Rouge (BTR): Via Air
+BHM,Austin ,ff0000,33.563889,-86.752222,Birmingham (BHM): Via Air
+BOS,Austin ,ff0000,42.363056,-71.006389,"Boston (BOS): Delta Airlines, JetBLue Airways, Southwest Airliens "
+BKG,Austin ,ff0000,36.531944,-93.200556,Branson (BKG): Via Air
+YYC,Austin ,ff0000,51.1225,-114.013333,Calgary (YYC): West Jet
+CUN,Austin ,ff0000,21.036667,-86.876944,"Cancun (CUN): Southwest Airlines, Sun Country, United Airlines"
+CLT,Austin ,ff0000,35.213889,-80.943056,Charlotte (CLT): American Airlines
+MDW,Austin ,ff0000,41.786111,-87.7525,Chicago-Midway (MDW): Southwest Airlines
+ORD,Austin ,ff0000,41.978611,-87.904722,"Chicago-O'Hare (ORD): American Airlines, Frontier Airlines, Spirit Airlines, United Airlines "
+CVG,Austin ,ff0000,39.048889,-84.667778,"Cincinnati (CVG): Delta Airlines, Frontier Airlines "
+CLE,Austin ,ff0000,41.411667,-81.849722,Cleveland (CLE): Frontier Airlines
+DAL,Austin ,ff0000,32.847222,-96.851667,Dallas-Love (DAL): Southwest Airlines
+DFW,Austin ,ff0000,32.896944,-97.038056,Dallas-Forth Worth (DFW): American Airlines
+DEN,Austin ,ff0000,39.861667,-104.673056,"Denver (DEN): Frontier Airlines, Spirit Airlines, Southwest Airlines, United Airlines "
+DTW,Austin ,ff0000,42.2125,-83.353333,"Detroit (DTW): Delta Airlines, Frontier Airlines "
+ELP,Austin ,ff0000,31.807222,-106.3775,El Paso (ELP): Southwest Airlines
+FLL,Austin ,ff0000,26.0725,-80.152778,"Fort Lauderdale (FLL): JetBLue Airways, Spirit Airlines, Southwest Airlines "
+VPS,Austin ,ff0000,30.483333, -86.525278,Fort Walton Beach (VPG): Allegiant Air
+FRA,Austin ,ff0000,50.033333,8.570556,Frankfurt (FRA): Lufthansa
+HRL,Austin ,ff0000,26.227222,-97.655,Harlingen (HRL): Southwest Airlines
+HOU,Austin ,ff0000,29.645556,-95.278889,Houston-Hobby (HOU): Southwest Airlines
+IAH,Austin ,ff0000,29.984444,-95.341389,Houston-Bush (IAH): United Airlines
+IND,Austin ,ff0000,39.717222,-86.294444,"Indianapolis (IND): Allegiant Air, Southwest Airlines "
+MCI,Austin ,ff0000,39.2975,-94.713889,Kansas City (MCI): Southwest Airlines
+LAS,Austin ,ff0000,36.08,-115.152222,"Las Vegas (LAS): Allegiant Air, Frontier Airlines, Spirit Airlines, Southwest Airlines "
+LIT,Austin ,ff0000,34.730778,-92.219472,Little Rock (LIT): Via Air
+LGW,Austin ,ff0000,51.148056,-0.190278,London-Gatwick (LGW): Norweigian
+LHR,Austin ,ff0000,51.4775,-0.461389,London-Heathrow: British Airways
+LGB,Austin ,ff0000,33.817778,-118.151667,Long Beach (LGB): JetBlue Airways
+LAX,Austin ,ff0000,33.9425,-118.408056,"Los Angeles (LAX): American Airlines, Delta Airlines, Spirit Airlines, Southwest Airlines, United Airlines "
+ONT,Austin ,ff0000,34.056111,-117.601111,Ontario (ONT): Frontier Airlines
+LBB,Austin ,ff0000,33.663611,-101.820556,Lubbock (LBB): Southwest Airlines
+MEM,Austin ,ff0000,35.0425, -89.976667,"Memphis (MEM): Allegiant Air, Via Air "
+MEX,Austin ,ff0000,19.436111, -99.071944,Mexico City (MEX): Aeromexico Airlines
+MIA,Austin ,ff0000,25.793333,-80.290556,Miami (MIA): American Airlines
+MSP,Austin ,ff0000,44.881944,-93.221667,"Minneapolis/St. Paul (MSP): Delta Airlines, Frontier Airlines, Sun Country "
+BNA,Austin ,ff0000,36.126667,-86.681944,Nashville (BNA): Southwest Airlines
+MSY,Austin ,ff0000,29.993333,-90.258056,"New Orleans (MSY): Spirit Airlines, Southwest Airlines "
+EWR,Austin ,ff0000,40.6925,-74.168611,"Newark (EWR): Southwest Airlines, United Airlines "
+JFK,Austin ,ff0000,40.639722,-73.778889,"John F. Kennedy (JFK): American Airlines, Delta Airlines, JetBlue Airways "
+OAK,Austin ,ff0000,37.721389,-122.220833,Oakland (OAK): Southwest Airlines
+MCO,Austin ,ff0000,28.429444,-81.308889,"Orlando (MCO): Frontier Airlines, JetBlue Airways, Spirit Airlines, Southwest Airlines"
+SFB,Austin ,ff0000,28.777778,-81.2375,Orlando-Sanford (SFO): Allegiant Air
+ECP,Austin ,ff0000,30.358333,-85.795556,Panama City (ECP): Southwest Airlines
+PNS,Austin ,ff0000,30.473333,-87.186667,Pensacola (PNS): Southwest Airlines
+PHL,Austin ,ff0000,39.871944,-75.241111,"Philadelphia (PHL): American Airlines, Frontier Airlines "
+PHX,Austin ,ff0000,33.434167,-112.011667,"Phoenix (PHX): American Airlines, Southwest Airlines "
+PIT,Austin ,ff0000,40.496,-80.246,Pittsburg (PIT): Allegiant Air
+PDX,Austin ,ff0000,45.588611,-122.5975,Portland (PDX): Alaska Airlines
+RDU,Austin ,ff0000,35.877778,-78.7875,"Raleigh/Durham (RDU): Delta Airlines, Southwest Airlines "
+SMF,Austin ,ff0000,38.695556,-121.590833,Sacramento (SMF): Southwest Airlines
+SLC,Austin ,ff0000,40.788333,-111.977778,"Salt Lake City (SLC): Delta Airlines, Frontier Airlines "
+SAN,Austin ,ff0000,32.733611,-117.189722,"San Diego (SAN): Alaska Airlines, Frontier Airline, Southwest Airlines"
+SFO,Austin ,ff0000,37.618889,-122.375,"San Francisco (SFO): Alaska Airlines, Frontier Airlines, Southwest Airlines, United Airlines "
+SJC,Austin ,ff0000,37.362778,-121.929167,"San Jose (SJC): Alaska Airlines, Southwest Airlines "
+SJD,Austin ,ff0000,23.151667, -109.720833,Los Cabos (SJD): Southwest Airlines
+SNA,Austin ,ff0000,33.675556,-117.868333,Santa Anna (SNA): Frontier Airlines
+SEA,Austin ,ff0000,47.448889,-122.309444,"Seattle (SEA): Alaska Airlines, Delta Airlines, Frontier Airlines "
+STL,Austin ,ff0000,38.747222,-90.361389,St. Louis (STL): Southwest Airlines
+TPA,Austin ,ff0000,27.975556,-82.533333,Tampa (TPA): Frontier Airlines
+YYZ,Austin ,ff0000,43.676667, -79.630556,Toronto (YYZ): Air Canada
+TUS,Austin ,ff0000,32.116111,-110.941111,Tuscon (TUS): Via Air
+TUL,Austin ,ff0000,36.198333,-95.888056,Tulsa (TUL): Via Air
+DCA,Austin ,ff0000,38.852222,-77.037778,Washington-Reagan (DCA): Southwest Airlines
+IAD,Austin ,ff0000,38.944444,-77.455833,"Washington-Dulles (IAD): Frontier Airlines, United Airlines "
 ATL,San Antonio,'#ff0000',33.636667,-84.428056,"Atlanta (ATL): Delta Airlines, Frontier Airlines, Spirit Airlines, Southwest Airlines"
 BWI,San Antonio,'#ff0000',39.175278,-76.668333,"Baltimore (BWI): Spirit Airlines, Southwest Airlines "
 CUN,San Antonio,'#ff0000',21.036667,-86.876944,"Cancun (CUN): Southwest Airlines, Sun Country, United Airlines"
@@ -76,7 +76,7 @@ MDW,San Antonio,'#ff0000',41.786111,-87.7525,Chicago-Midway (MDW): Southwest Air
 ORD,San Antonio,'#ff0000',41.978611,-87.904722,"Chicago-O'Hare (ORD): American Airlines, Frontier Airlines, Spirit Airlines, United Airlines "
 DAL,San Antonio,'#ff0000',32.847222,-96.851667,Dallas-Love (DAL): Southwest Airlines
 DFW,San Antonio,'#ff0000',32.896944,-97.038056,Dallas-Forth Worth (DFW): American Airlines
-DEN,San Antonio,#0000ff,39.861667,-104.673056,"Denver (DEN): Frontier Airlines, Spirit Airlines, Southwest Airlines, United Airlines "
+DEN,San Antonio,#'0000ff',39.861667,-104.673056,"Denver (DEN): Frontier Airlines, Spirit Airlines, Southwest Airlines, United Airlines "
 DTW,San Antonio,'#ff0000',42.2125,-83.353333,"Detroit (DTW): Delta Airlines, Frontier Airlines "
 ELP,San Antonio,'#ff0000',31.807222,-106.3775,El Paso (ELP): Southwest Airlines
 FLL,San Antonio,'#ff0000',26.0725,-80.152778,"Fort Lauderdale (FLL): JetBLue Airways, Spirit Airlines, Southwest Airlines "
