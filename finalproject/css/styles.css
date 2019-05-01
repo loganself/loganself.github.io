@@ -1,3 +1,10 @@
+body {
+  font-family: helvetica;
+}
+
+
+
+
 #dropcap1 {
   color: #b3cceb;
   font-size: 6.5rem;
@@ -6,4 +13,30 @@
   padding: 5px 10px 13px 10px;
   margin: 0 10px 0px 0px;
   border-bottom: 5px solid #9fdfbf;
+}
+
+#paragraph p {
+  width: 80%;
+  margin: auto;
+  display: block;
+  padding-bottom: 15px;
+}
+
+img {
+  width: 90%;
+  margin: auto;
+  display: block;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  z-index: 1;
+}
+
+h1 {
+  font-size: 64px;
+  margin-top: 200px;
+  margin-left: 65px;
+}
+
+h3 {
+  margin-left: 65px;
 }
