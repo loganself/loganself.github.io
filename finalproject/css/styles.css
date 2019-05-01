@@ -1,0 +1,9 @@
+#dropcap1 {
+  color: #b3cceb;
+  font-size: 6.5rem;
+  float: left;
+  line-height: 60px;
+  padding: 5px 10px 13px 10px;
+  margin: 0 10px 0px 0px;
+  border-bottom: 5px solid #9fdfbf;
+}
