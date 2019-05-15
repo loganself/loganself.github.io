@@ -59,7 +59,8 @@ Plotly.d3.csv('abia.csv', function(err, rows){
           type: 'scattermapbox',
           lat: unpack(rows, 'Latitude'),
           lon: unpack(rows, 'Longitude'),
-          text: unpack(rows, 'airports', 'passengers'),
+          text: unpack(rows, 'airports'),
+          text: unpack(row, 'passengers'),
           marker: {
             color: ['#000']
           }
