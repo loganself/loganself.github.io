@@ -44,4 +44,4 @@ xaxis: {title: {text:'Seasons'}}
 
 
 Plotly.newPlot('graph', data, layout, {responsive: true} );
-})
+}
