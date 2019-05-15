@@ -59,15 +59,15 @@ Plotly.d3.csv('abia.csv', function(err, rows){
           type: 'scattermapbox',
           lat: unpack(rows, 'Latitude'),
           lon: unpack(rows, 'Longitude'),
-          text: unpack(rows, 'airlineOptions'),
+          text: unpack(rows, 'airports'),
           marker: {
-            color: ['#9fdfbf', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4','#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#b3cceb', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4', '#9abce4',]
+            color: ['#000']
           }
         }
       ];
 
       var layout = {
-       title: 'ABIA Nonstop Locations',
+       title: 'Large Airports in Small Cities',
        titlefont: {
       color: '#b3cceb',
       size: 20,
