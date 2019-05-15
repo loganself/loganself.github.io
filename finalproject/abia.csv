@@ -1,9 +1,9 @@
-﻿airports,Latitude,Longitude,Aeromexico Airlines ,Air Canada ,Alaska Airlines ,Allegiant Air ,American Airlines ,British Airways ,Delta Airlines ,Frontier Airlines ,JetBlue Airways ,Lufthansa ,Norwegian ,Spirit Airlines ,Sky West,Southwest Airlines ,Sun Country ,United Airlines ,Via Air,West Jet,airlineOptions
-Austin (ABIA),30.194444,-97.67,,,,,,,,,,,,,,,,,,,
-Tampa (TPA),27.975556,-82.533333,,,,,,,,,,,,,,,,,,,
-Nashville (BNA),36.126667,-86.681944,,,,,,,,,,,,,,,,,,,
-Minneapolis-St. Paul (MSP),44.881944,-93.221667,,,,,,,,,,,,,,,,,,,
-St. Louis (STL),38.747222,-90.361389,,,,,,,,,,,,,,,,,,,
-Kansas City (MCI),39.2975,-94.713889,,,,,,,,,,,,,,,,,,,
-Salt Lake City (SLC),40.788333,-111.977778,,,,,,,,,,,,,,,,,,,
-Seattle (SEA),47.448889,-122.309444,,,,,,,,,,,,,,,,,,,
+﻿airports,Latitude,Longitude,passengers ,cityPop,Alaska Airlines ,Allegiant Air ,American Airlines ,British Airways ,Delta Airlines ,Frontier Airlines ,JetBlue Airways ,Lufthansa ,Norwegian ,Spirit Airlines ,Sky West,Southwest Airlines ,Sun Country ,United Airlines ,Via Air,West Jet,airlineOptions
+Austin (ABIA),30.194444,-97.67,"15,819,912",950715,,,,,,,,,,,,,,,,,
+Tampa (TPA),27.975556,-82.533333,"21,013,788",385430,,,,,,,,,,,,,,,,,
+Nashville (BNA),36.126667,-86.681944,"15,996,194",691243,,,,,,,,,,,,,,,,,
+Minneapolis-St. Paul (MSP),44.881944,-93.221667,"38,037,381",728952,,,,,,,,,,,,,,,,,
+St. Louis (STL),38.747222,-90.361389,"15,632,586",302838,,,,,,,,,,,,,,,,,
+Kansas City (MCI),39.2975,-94.713889,"11,841,289",641881,,,,,,,,,,,,,,,,,
+Salt Lake City (SLC),40.788333,-111.977778,"25,554,244",200544,,,,,,,,,,,,,,,,,
+Seattle (SEA),47.448889,-122.309444,"49,849,520",724745,,,,,,,,,,,,,,,,,
