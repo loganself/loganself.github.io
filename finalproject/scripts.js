@@ -37,8 +37,8 @@ type: 'bar'
 
 var data = [trace1]
 var layout = {
-title:'Season Passenger Totals - Graph 1',
-xaxis: {title: {text:'Seasons'}}
+title:'Totals Across the Airports',
+xaxis: {title: {text:'Airports'}}
 }
 
 
