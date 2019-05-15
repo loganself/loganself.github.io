@@ -76,8 +76,8 @@ Plotly.d3.csv('abia.csv', function(err, rows){
         dragmode: 'zoom',
         mapbox: {
           center: {
-            lat: 33.068431,
-            lon: -41.641805
+            lat: 38.621972,
+            lon: -99.961840
           },
           zoom: 2,
           style: 'light'
