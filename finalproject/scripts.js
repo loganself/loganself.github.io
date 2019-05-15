@@ -70,30 +70,15 @@ $( document ).ready(function() {
   drawPlot("All");
 
   // At this point, we also want to read in our CSV so we can generate the options in our dropdown.
-  Plotly.d3.csv('abia.csv', function(err, rows){
+  Plotly.d3.csv('airport_info.csv', function(err, rows){
 
     // rows is now an array from your CSV, so we can get a list of the unique crime types like this:
     let airport_type = $.distinct(
-      unpack(rows, "airportLocation")
+      unpack(rows, "airports")
     );
 
     console.log(airport_type);
 
-    // Now add options to the dropdown in the HTML for each unique crime.
-  for (let i=0; i<airport_type.length; i++){
-   $('#airportLocation').append("<option value='" + airport_type[i] + "'>" + airport_type[i] + "</option>");
-
-  }
-
-  })
-
-    // Now attach an event listener to the dropdown so that when the user selects a crime type, the map updates. You should call the drawPlot() function to update the map.
-
-  $('#airportLocation').on('change', function(event){
-    $('#viz3').remove();
-      $('#viz_holder').append('<div id="viz3"></div>');
-      drawPlot(event.target.value);
-  })
 
 }) // document ready
 
@@ -101,7 +86,7 @@ $( document ).ready(function() {
 
 var drawPlot = function(category) {
 
-  Plotly.d3.csv('abia.csv', function(err, rows){
+  Plotly.d3.csv('airport_info.csv', function(err, rows){
       function unpack(rows, key) {
           return rows.map(function(row) { return row[key]; });
       }
@@ -115,11 +100,8 @@ var drawPlot = function(category) {
           type: 'scattermapbox',
           lat: unpack(rows, 'Latitude'),
           lon: unpack(rows, 'Longitude'),
-          text: unpack(rows,'airlineOptions'),
+          text: unpack(rows,'airports', rows, 'passengers'),
           hoverinfo: 'text',
-          marker: {
-            color: unpack(rows, 'Color')
-          }
 
       }];
 
