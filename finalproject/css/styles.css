@@ -20,7 +20,7 @@ body {
 }
 
 img {
-  width: 90%;
+  width: 80%;
   margin: auto;
   display: block;
   padding-bottom: 15px;
@@ -36,4 +36,10 @@ h1 {
 
 h3 {
   margin-left: 65px;
+}
+
+h6 {
+  width: 80%;
+  font-size: 12px;
+  margin-left: 70px;
 }
